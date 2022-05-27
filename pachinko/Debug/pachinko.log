@@ -1,0 +1,3 @@
+﻿  pachinko.cpp
+C:\Users\Brody\cs5500\pachinko\pachinko\pachinko.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pachinko.vcxproj -> C:\Users\Brody\cs5500\pachinko\Debug\pachinko.exe
